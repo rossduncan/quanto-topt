@@ -1,9 +1,10 @@
 from quanto.util.Scripting import *
 
 simps = load_rules([
-  "axioms/red_copy", "axioms/red_sp", "axioms/green_sp", "axioms/hopf",
-  "axioms/red_scalar", "axioms/green_scalar", "axioms/green_id",
-  "axioms/red_id", "axioms/red_loop", "axioms/green_loop"])
+  "rules/axioms/red_copy", "rules/axioms/red_sp", "rules/axioms/green_sp",
+  "rules/axioms/hopf","rules/axioms/red_scalar", "rules/axioms/green_scalar",
+  "rules/axioms/green_id","rules/axioms/red_id", "rules/axioms/red_loop",
+  "rules/axioms/green_loop"])
 
 register_simproc("basic-simp", REDUCE(simps))
 

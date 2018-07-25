@@ -1,17 +1,17 @@
 from quanto.util.Scripting import *
 
 simps0 = load_rules([
-  "axioms/red_copy", "axioms/green_copy",
-  "axioms/red_sp", "axioms/green_sp",
-  "axioms/hopf",
-  "axioms/red_scalar", "axioms/green_scalar",
-  "axioms/red_loop", "axioms/green_loop"])
+  "rules/axioms/red_copy", "rules/axioms/green_copy",
+  "rules/axioms/red_sp", "rules/axioms/green_sp",
+  "rules/axioms/hopf",
+  "rules/axioms/red_scalar", "rules/axioms/green_scalar",
+  "rules/axioms/red_loop", "rules/axioms/green_loop"])
 
-simps = simps0 + load_rules(["axioms/green_id", "axioms/red_id"])
+simps = simps0 + load_rules(["rules/axioms/green_id", "rules/axioms/red_id"])
 
-green_id_inv = load_rule("axioms/green_id").inverse()
-red_id_inv = load_rule("axioms/red_id").inverse()
-rotate = load_rule("theorems/rotate_targeted")
+green_id_inv = load_rule("rules/axioms/green_id").inverse()
+red_id_inv = load_rule("rules/axioms/red_id").inverse()
+rotate = load_rule("rules/theorems/rotate_targeted")
 
 
 def num_boundary_X(g):
