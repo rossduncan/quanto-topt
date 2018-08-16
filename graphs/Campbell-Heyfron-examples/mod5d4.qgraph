@@ -1,0 +1,142 @@
+H 5
+<class 'pytket._cpptket.Command'>
+H 6
+<class 'pytket._cpptket.Command'>
+CX 4 3
+<class 'pytket._cpptket.Command'>
+CX 5 3
+<class 'pytket._cpptket.Command'>
+T 3
+<class 'pytket._cpptket.Command'>
+CX 5 3
+<class 'pytket._cpptket.Command'>
+CX 4 3
+<class 'pytket._cpptket.Command'>
+CX 3 2
+<class 'pytket._cpptket.Command'>
+T 2
+<class 'pytket._cpptket.Command'>
+S 2
+<class 'pytket._cpptket.Command'>
+CX 5 2
+<class 'pytket._cpptket.Command'>
+T 2
+<class 'pytket._cpptket.Command'>
+CX 5 2
+<class 'pytket._cpptket.Command'>
+CX 3 2
+<class 'pytket._cpptket.Command'>
+CX 4 3
+<class 'pytket._cpptket.Command'>
+T 3
+<class 'pytket._cpptket.Command'>
+S 3
+<class 'pytket._cpptket.Command'>
+CX 4 3
+<class 'pytket._cpptket.Command'>
+CX 2 1
+<class 'pytket._cpptket.Command'>
+CX 5 1
+<class 'pytket._cpptket.Command'>
+T 1
+<class 'pytket._cpptket.Command'>
+CX 5 1
+<class 'pytket._cpptket.Command'>
+CX 2 1
+<class 'pytket._cpptket.Command'>
+CX 4 1
+<class 'pytket._cpptket.Command'>
+T 1
+<class 'pytket._cpptket.Command'>
+S 1
+<class 'pytket._cpptket.Command'>
+CX 4 1
+<class 'pytket._cpptket.Command'>
+CX 2 1
+<class 'pytket._cpptket.Command'>
+T 1
+<class 'pytket._cpptket.Command'>
+S 1
+<class 'pytket._cpptket.Command'>
+CX 2 1
+<class 'pytket._cpptket.Command'>
+CX 4 1
+<class 'pytket._cpptket.Command'>
+CX 5 1
+<class 'pytket._cpptket.Command'>
+T 1
+<class 'pytket._cpptket.Command'>
+CX 5 1
+<class 'pytket._cpptket.Command'>
+CX 4 1
+<class 'pytket._cpptket.Command'>
+S 1
+<class 'pytket._cpptket.Command'>
+Z 1
+<class 'pytket._cpptket.Command'>
+S 2
+<class 'pytket._cpptket.Command'>
+Z 2
+<class 'pytket._cpptket.Command'>
+S 3
+<class 'pytket._cpptket.Command'>
+Z 3
+<class 'pytket._cpptket.Command'>
+S 4
+<class 'pytket._cpptket.Command'>
+Z 4
+<class 'pytket._cpptket.Command'>
+S 5
+<class 'pytket._cpptket.Command'>
+S 6
+<class 'pytket._cpptket.Command'>
+Z 6
+<class 'pytket._cpptket.Command'>
+CX 5 1
+<class 'pytket._cpptket.Command'>
+S 1
+<class 'pytket._cpptket.Command'>
+CX 5 1
+<class 'pytket._cpptket.Command'>
+CX 5 2
+<class 'pytket._cpptket.Command'>
+S 2
+<class 'pytket._cpptket.Command'>
+CX 5 2
+<class 'pytket._cpptket.Command'>
+CX 5 3
+<class 'pytket._cpptket.Command'>
+S 3
+<class 'pytket._cpptket.Command'>
+CX 5 3
+<class 'pytket._cpptket.Command'>
+CX 5 4
+<class 'pytket._cpptket.Command'>
+S 4
+<class 'pytket._cpptket.Command'>
+CX 5 4
+<class 'pytket._cpptket.Command'>
+CX 6 5
+<class 'pytket._cpptket.Command'>
+S 5
+<class 'pytket._cpptket.Command'>
+CX 6 5
+<class 'pytket._cpptket.Command'>
+CX 1 3
+<class 'pytket._cpptket.Command'>
+CX 2 4
+<class 'pytket._cpptket.Command'>
+CX 5 6
+<class 'pytket._cpptket.Command'>
+CX 6 5
+<class 'pytket._cpptket.Command'>
+CX 5 6
+<class 'pytket._cpptket.Command'>
+CX 3 4
+<class 'pytket._cpptket.Command'>
+CX 4 5
+<class 'pytket._cpptket.Command'>
+H 6
+<class 'pytket._cpptket.Command'>
+pish
+{"wire_vertices": {"b0": {"annotation": {"boundary": true, "coord": [0, 0]}}, "b1": {"annotation": {"boundary": true, "coord": [0, 1]}}, "b2": {"annotation": {"boundary": true, "coord": [0, 2]}}, "b3": {"annotation": {"boundary": true, "coord": [0, 3]}}, "b4": {"annotation": {"boundary": true, "coord": [0, 4]}}, "b5": {"annotation": {"boundary": true, "coord": [0, 5]}}, "b6": {"annotation": {"boundary": true, "coord": [0, 6]}}, "b7": {"annotation": {"boundary": true, "coord": [68, 0]}}, "b8": {"annotation": {"boundary": true, "coord": [68, 1]}}, "b9": {"annotation": {"boundary": true, "coord": [68, 2]}}, "b10": {"annotation": {"boundary": true, "coord": [68, 3]}}, "b11": {"annotation": {"boundary": true, "coord": [68, 4]}}, "b12": {"annotation": {"boundary": true, "coord": [68, 5]}}, "b13": {"annotation": {"boundary": true, "coord": [68, 6]}}}, "node_vertices": {"v0": {"annotation": {"coord": [1, 4]}, "data": {"type": "Z"}}, "v1": {"annotation": {"coord": [1, 3]}, "data": {"type": "X"}}, "v2": {"annotation": {"coord": [2, 5]}, "data": {"type": "Z"}}, "v3": {"annotation": {"coord": [2, 3]}, "data": {"type": "X"}}, "v4": {"annotation": {"coord": [3, 3]}, "data": {"type": "Z", "value": "\\pi/4"}}, "v5": {"annotation": {"coord": [4, 5]}, "data": {"type": "Z"}}, "v6": {"annotation": {"coord": [4, 3]}, "data": {"type": "X"}}, "v7": {"annotation": {"coord": [5, 4]}, "data": {"type": "Z"}}, "v8": {"annotation": {"coord": [5, 3]}, "data": {"type": "X"}}, "v9": {"annotation": {"coord": [6, 3]}, "data": {"type": "Z"}}, "v10": {"annotation": {"coord": [6, 2]}, "data": {"type": "X"}}, "v11": {"annotation": {"coord": [7, 2]}, "data": {"type": "Z", "value": "\\pi/4"}}, "v12": {"annotation": {"coord": [8, 2]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v13": {"annotation": {"coord": [9, 5]}, "data": {"type": "Z"}}, "v14": {"annotation": {"coord": [9, 2]}, "data": {"type": "X"}}, "v15": {"annotation": {"coord": [10, 2]}, "data": {"type": "Z", "value": "\\pi/4"}}, "v16": {"annotation": {"coord": [11, 5]}, "data": {"type": "Z"}}, "v17": {"annotation": {"coord": [11, 2]}, "data": {"type": "X"}}, "v18": {"annotation": {"coord": [12, 3]}, "data": {"type": "Z"}}, "v19": {"annotation": {"coord": [12, 2]}, "data": {"type": "X"}}, "v20": {"annotation": {"coord": [13, 4]}, "data": {"type": "Z"}}, "v21": {"annotation": {"coord": [13, 3]}, "data": {"type": "X"}}, "v22": {"annotation": {"coord": [14, 3]}, "data": {"type": "Z", "value": "\\pi/4"}}, "v23": {"annotation": {"coord": [15, 3]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v24": {"annotation": {"coord": [16, 4]}, "data": {"type": "Z"}}, "v25": {"annotation": {"coord": [16, 3]}, "data": {"type": "X"}}, "v26": {"annotation": {"coord": [17, 2]}, "data": {"type": "Z"}}, "v27": {"annotation": {"coord": [17, 1]}, "data": {"type": "X"}}, "v28": {"annotation": {"coord": [18, 5]}, "data": {"type": "Z"}}, "v29": {"annotation": {"coord": [18, 1]}, "data": {"type": "X"}}, "v30": {"annotation": {"coord": [19, 1]}, "data": {"type": "Z", "value": "\\pi/4"}}, "v31": {"annotation": {"coord": [20, 5]}, "data": {"type": "Z"}}, "v32": {"annotation": {"coord": [20, 1]}, "data": {"type": "X"}}, "v33": {"annotation": {"coord": [21, 2]}, "data": {"type": "Z"}}, "v34": {"annotation": {"coord": [21, 1]}, "data": {"type": "X"}}, "v35": {"annotation": {"coord": [22, 4]}, "data": {"type": "Z"}}, "v36": {"annotation": {"coord": [22, 1]}, "data": {"type": "X"}}, "v37": {"annotation": {"coord": [23, 1]}, "data": {"type": "Z", "value": "\\pi/4"}}, "v38": {"annotation": {"coord": [24, 1]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v39": {"annotation": {"coord": [25, 4]}, "data": {"type": "Z"}}, "v40": {"annotation": {"coord": [25, 1]}, "data": {"type": "X"}}, "v41": {"annotation": {"coord": [26, 2]}, "data": {"type": "Z"}}, "v42": {"annotation": {"coord": [26, 1]}, "data": {"type": "X"}}, "v43": {"annotation": {"coord": [27, 1]}, "data": {"type": "Z", "value": "\\pi/4"}}, "v44": {"annotation": {"coord": [28, 1]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v45": {"annotation": {"coord": [29, 2]}, "data": {"type": "Z"}}, "v46": {"annotation": {"coord": [29, 1]}, "data": {"type": "X"}}, "v47": {"annotation": {"coord": [30, 4]}, "data": {"type": "Z"}}, "v48": {"annotation": {"coord": [30, 1]}, "data": {"type": "X"}}, "v49": {"annotation": {"coord": [31, 5]}, "data": {"type": "Z"}}, "v50": {"annotation": {"coord": [31, 1]}, "data": {"type": "X"}}, "v51": {"annotation": {"coord": [32, 1]}, "data": {"type": "Z", "value": "\\pi/4"}}, "v52": {"annotation": {"coord": [33, 5]}, "data": {"type": "Z"}}, "v53": {"annotation": {"coord": [33, 1]}, "data": {"type": "X"}}, "v54": {"annotation": {"coord": [34, 4]}, "data": {"type": "Z"}}, "v55": {"annotation": {"coord": [34, 1]}, "data": {"type": "X"}}, "v56": {"annotation": {"coord": [35, 1]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v57": {"annotation": {"coord": [36, 1]}, "data": {"type": "Z", "value": "\\pi"}}, "v58": {"annotation": {"coord": [37, 2]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v59": {"annotation": {"coord": [38, 2]}, "data": {"type": "Z", "value": "\\pi"}}, "v60": {"annotation": {"coord": [39, 3]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v61": {"annotation": {"coord": [40, 3]}, "data": {"type": "Z", "value": "\\pi"}}, "v62": {"annotation": {"coord": [41, 4]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v63": {"annotation": {"coord": [42, 4]}, "data": {"type": "Z", "value": "\\pi"}}, "v64": {"annotation": {"coord": [43, 5]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v65": {"annotation": {"coord": [44, 6]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v66": {"annotation": {"coord": [45, 6]}, "data": {"type": "Z", "value": "\\pi"}}, "v67": {"annotation": {"coord": [46, 5]}, "data": {"type": "Z"}}, "v68": {"annotation": {"coord": [46, 1]}, "data": {"type": "X"}}, "v69": {"annotation": {"coord": [47, 1]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v70": {"annotation": {"coord": [48, 5]}, "data": {"type": "Z"}}, "v71": {"annotation": {"coord": [48, 1]}, "data": {"type": "X"}}, "v72": {"annotation": {"coord": [49, 5]}, "data": {"type": "Z"}}, "v73": {"annotation": {"coord": [49, 2]}, "data": {"type": "X"}}, "v74": {"annotation": {"coord": [50, 2]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v75": {"annotation": {"coord": [51, 5]}, "data": {"type": "Z"}}, "v76": {"annotation": {"coord": [51, 2]}, "data": {"type": "X"}}, "v77": {"annotation": {"coord": [52, 5]}, "data": {"type": "Z"}}, "v78": {"annotation": {"coord": [52, 3]}, "data": {"type": "X"}}, "v79": {"annotation": {"coord": [53, 3]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v80": {"annotation": {"coord": [54, 5]}, "data": {"type": "Z"}}, "v81": {"annotation": {"coord": [54, 3]}, "data": {"type": "X"}}, "v82": {"annotation": {"coord": [55, 5]}, "data": {"type": "Z"}}, "v83": {"annotation": {"coord": [55, 4]}, "data": {"type": "X"}}, "v84": {"annotation": {"coord": [56, 4]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v85": {"annotation": {"coord": [57, 5]}, "data": {"type": "Z"}}, "v86": {"annotation": {"coord": [57, 4]}, "data": {"type": "X"}}, "v87": {"annotation": {"coord": [58, 6]}, "data": {"type": "Z"}}, "v88": {"annotation": {"coord": [58, 5]}, "data": {"type": "X"}}, "v89": {"annotation": {"coord": [59, 5]}, "data": {"type": "Z", "value": "\\pi/2"}}, "v90": {"annotation": {"coord": [60, 6]}, "data": {"type": "Z"}}, "v91": {"annotation": {"coord": [60, 5]}, "data": {"type": "X"}}, "v92": {"annotation": {"coord": [61, 1]}, "data": {"type": "Z"}}, "v93": {"annotation": {"coord": [61, 3]}, "data": {"type": "X"}}, "v94": {"annotation": {"coord": [62, 2]}, "data": {"type": "Z"}}, "v95": {"annotation": {"coord": [62, 4]}, "data": {"type": "X"}}, "v96": {"annotation": {"coord": [63, 5]}, "data": {"type": "Z"}}, "v97": {"annotation": {"coord": [63, 6]}, "data": {"type": "X"}}, "v98": {"annotation": {"coord": [64, 6]}, "data": {"type": "Z"}}, "v99": {"annotation": {"coord": [64, 5]}, "data": {"type": "X"}}, "v100": {"annotation": {"coord": [65, 5]}, "data": {"type": "Z"}}, "v101": {"annotation": {"coord": [65, 6]}, "data": {"type": "X"}}, "v102": {"annotation": {"coord": [66, 3]}, "data": {"type": "Z"}}, "v103": {"annotation": {"coord": [66, 4]}, "data": {"type": "X"}}, "v104": {"annotation": {"coord": [67, 4]}, "data": {"type": "Z"}}, "v105": {"annotation": {"coord": [67, 5]}, "data": {"type": "X"}}, "v106": {"annotation": {"coord": [1.0, 5.0]}, "data": {"type": "hadamard"}}, "v107": {"annotation": {"coord": [22.0, 6.0]}, "data": {"type": "hadamard"}}, "v108": {"annotation": {"coord": [66.5, 6.0]}, "data": {"type": "hadamard"}}}, "undir_edges": {"e0": {"src": "b0", "tgt": "b7"}, "e1": {"src": "b1", "tgt": "v27"}, "e2": {"src": "b2", "tgt": "v10"}, "e3": {"src": "b3", "tgt": "v1"}, "e4": {"src": "b4", "tgt": "v0"}, "e5": {"src": "b5", "tgt": "v106"}, "e6": {"src": "v2", "tgt": "v106"}, "e7": {"src": "b6", "tgt": "v107"}, "e8": {"src": "v65", "tgt": "v107"}, "e9": {"src": "v0", "tgt": "v1"}, "e10": {"src": "v0", "tgt": "v7"}, "e11": {"src": "v1", "tgt": "v3"}, "e12": {"src": "v2", "tgt": "v3"}, "e13": {"src": "v2", "tgt": "v5"}, "e14": {"src": "v3", "tgt": "v4"}, "e15": {"src": "v4", "tgt": "v6"}, "e16": {"src": "v5", "tgt": "v6"}, "e17": {"src": "v5", "tgt": "v13"}, "e18": {"src": "v6", "tgt": "v8"}, "e19": {"src": "v7", "tgt": "v8"}, "e20": {"src": "v7", "tgt": "v20"}, "e21": {"src": "v8", "tgt": "v9"}, "e22": {"src": "v9", "tgt": "v10"}, "e23": {"src": "v9", "tgt": "v18"}, "e24": {"src": "v10", "tgt": "v11"}, "e25": {"src": "v11", "tgt": "v12"}, "e26": {"src": "v12", "tgt": "v14"}, "e27": {"src": "v13", "tgt": "v14"}, "e28": {"src": "v13", "tgt": "v16"}, "e29": {"src": "v14", "tgt": "v15"}, "e30": {"src": "v15", "tgt": "v17"}, "e31": {"src": "v16", "tgt": "v17"}, "e32": {"src": "v16", "tgt": "v28"}, "e33": {"src": "v17", "tgt": "v19"}, "e34": {"src": "v18", "tgt": "v19"}, "e35": {"src": "v18", "tgt": "v21"}, "e36": {"src": "v19", "tgt": "v26"}, "e37": {"src": "v20", "tgt": "v21"}, "e38": {"src": "v20", "tgt": "v24"}, "e39": {"src": "v21", "tgt": "v22"}, "e40": {"src": "v22", "tgt": "v23"}, "e41": {"src": "v23", "tgt": "v25"}, "e42": {"src": "v24", "tgt": "v25"}, "e43": {"src": "v24", "tgt": "v35"}, "e44": {"src": "v25", "tgt": "v60"}, "e45": {"src": "v26", "tgt": "v27"}, "e46": {"src": "v26", "tgt": "v33"}, "e47": {"src": "v27", "tgt": "v29"}, "e48": {"src": "v28", "tgt": "v29"}, "e49": {"src": "v28", "tgt": "v31"}, "e50": {"src": "v29", "tgt": "v30"}, "e51": {"src": "v30", "tgt": "v32"}, "e52": {"src": "v31", "tgt": "v32"}, "e53": {"src": "v31", "tgt": "v49"}, "e54": {"src": "v32", "tgt": "v34"}, "e55": {"src": "v33", "tgt": "v34"}, "e56": {"src": "v33", "tgt": "v41"}, "e57": {"src": "v34", "tgt": "v36"}, "e58": {"src": "v35", "tgt": "v36"}, "e59": {"src": "v35", "tgt": "v39"}, "e60": {"src": "v36", "tgt": "v37"}, "e61": {"src": "v37", "tgt": "v38"}, "e62": {"src": "v38", "tgt": "v40"}, "e63": {"src": "v39", "tgt": "v40"}, "e64": {"src": "v39", "tgt": "v47"}, "e65": {"src": "v40", "tgt": "v42"}, "e66": {"src": "v41", "tgt": "v42"}, "e67": {"src": "v41", "tgt": "v45"}, "e68": {"src": "v42", "tgt": "v43"}, "e69": {"src": "v43", "tgt": "v44"}, "e70": {"src": "v44", "tgt": "v46"}, "e71": {"src": "v45", "tgt": "v46"}, "e72": {"src": "v45", "tgt": "v58"}, "e73": {"src": "v46", "tgt": "v48"}, "e74": {"src": "v47", "tgt": "v48"}, "e75": {"src": "v47", "tgt": "v54"}, "e76": {"src": "v48", "tgt": "v50"}, "e77": {"src": "v49", "tgt": "v50"}, "e78": {"src": "v49", "tgt": "v52"}, "e79": {"src": "v50", "tgt": "v51"}, "e80": {"src": "v51", "tgt": "v53"}, "e81": {"src": "v52", "tgt": "v53"}, "e82": {"src": "v52", "tgt": "v64"}, "e83": {"src": "v53", "tgt": "v55"}, "e84": {"src": "v54", "tgt": "v55"}, "e85": {"src": "v54", "tgt": "v62"}, "e86": {"src": "v55", "tgt": "v56"}, "e87": {"src": "v56", "tgt": "v57"}, "e88": {"src": "v57", "tgt": "v68"}, "e89": {"src": "v58", "tgt": "v59"}, "e90": {"src": "v59", "tgt": "v73"}, "e91": {"src": "v60", "tgt": "v61"}, "e92": {"src": "v61", "tgt": "v78"}, "e93": {"src": "v62", "tgt": "v63"}, "e94": {"src": "v63", "tgt": "v83"}, "e95": {"src": "v64", "tgt": "v67"}, "e96": {"src": "v65", "tgt": "v66"}, "e97": {"src": "v66", "tgt": "v87"}, "e98": {"src": "v67", "tgt": "v68"}, "e99": {"src": "v67", "tgt": "v70"}, "e100": {"src": "v68", "tgt": "v69"}, "e101": {"src": "v69", "tgt": "v71"}, "e102": {"src": "v70", "tgt": "v71"}, "e103": {"src": "v70", "tgt": "v72"}, "e104": {"src": "v71", "tgt": "v92"}, "e105": {"src": "v72", "tgt": "v73"}, "e106": {"src": "v72", "tgt": "v75"}, "e107": {"src": "v73", "tgt": "v74"}, "e108": {"src": "v74", "tgt": "v76"}, "e109": {"src": "v75", "tgt": "v76"}, "e110": {"src": "v75", "tgt": "v77"}, "e111": {"src": "v76", "tgt": "v94"}, "e112": {"src": "v77", "tgt": "v78"}, "e113": {"src": "v77", "tgt": "v80"}, "e114": {"src": "v78", "tgt": "v79"}, "e115": {"src": "v79", "tgt": "v81"}, "e116": {"src": "v80", "tgt": "v81"}, "e117": {"src": "v80", "tgt": "v82"}, "e118": {"src": "v81", "tgt": "v93"}, "e119": {"src": "v82", "tgt": "v83"}, "e120": {"src": "v82", "tgt": "v85"}, "e121": {"src": "v83", "tgt": "v84"}, "e122": {"src": "v84", "tgt": "v86"}, "e123": {"src": "v85", "tgt": "v86"}, "e124": {"src": "v85", "tgt": "v88"}, "e125": {"src": "v86", "tgt": "v95"}, "e126": {"src": "v87", "tgt": "v88"}, "e127": {"src": "v87", "tgt": "v90"}, "e128": {"src": "v88", "tgt": "v89"}, "e129": {"src": "v89", "tgt": "v91"}, "e130": {"src": "v90", "tgt": "v91"}, "e131": {"src": "v90", "tgt": "v97"}, "e132": {"src": "v91", "tgt": "v96"}, "e133": {"src": "v92", "tgt": "v93"}, "e134": {"src": "v92", "tgt": "b8"}, "e135": {"src": "v93", "tgt": "v102"}, "e136": {"src": "v94", "tgt": "v95"}, "e137": {"src": "v94", "tgt": "b9"}, "e138": {"src": "v95", "tgt": "v103"}, "e139": {"src": "v96", "tgt": "v97"}, "e140": {"src": "v96", "tgt": "v99"}, "e141": {"src": "v97", "tgt": "v98"}, "e142": {"src": "v98", "tgt": "v99"}, "e143": {"src": "v98", "tgt": "v101"}, "e144": {"src": "v99", "tgt": "v100"}, "e145": {"src": "v100", "tgt": "v101"}, "e146": {"src": "v100", "tgt": "v105"}, "e147": {"src": "v101", "tgt": "v108"}, "e148": {"src": "b13", "tgt": "v108"}, "e149": {"src": "v102", "tgt": "v103"}, "e150": {"src": "v102", "tgt": "b10"}, "e151": {"src": "v103", "tgt": "v104"}, "e152": {"src": "v104", "tgt": "v105"}, "e153": {"src": "v104", "tgt": "b11"}, "e154": {"src": "v105", "tgt": "b12"}}}
